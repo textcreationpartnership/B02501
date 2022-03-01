@@ -1,0 +1,241 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oliver Lord Protector of the Commonwealth of England, Scotland, and Ireland, and the dominions and territories thereto belonging. To all parsons, ministers, lecturers, vicars, and curates ... whereas the minister and inhabitants of the parish of Edgbaston, in our county of Warwick, have made their humble petition to us ...</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02501</idno>
+            <idno type="STC">Wing C7176B</idno>
+            <idno type="STC">ESTC R174329</idno>
+            <idno type="EEBO-CITATION">51784470</idno>
+            <idno type="OCLC">ocm 51784470</idno>
+            <idno type="VID">174885</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02501)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174885)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2704:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Oliver Lord Protector of the Commonwealth of England, Scotland, and Ireland, and the dominions and territories thereto belonging. To all parsons, ministers, lecturers, vicars, and curates ... whereas the minister and inhabitants of the parish of Edgbaston, in our county of Warwick, have made their humble petition to us ...</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title taken from first line of text.</note>
+                  <note>Year of publication from text.</note>
+                  <note>Imperfect: cropped, with some loss of print.</note>
+                  <note>Reproduction of original in: Universität Göttingen Bibliothek.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Letters patent --  Great Britain --  Edgbaston --  Early works to 1800.</term>
+               <term>Edgbaston (England) --  Church history --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:174885:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <head>O <figure>
+                  <q>PAX QVAERITVR BELLO</q>
+                  <q>OLIVARIVS DEI ◆ GRA: REIPVB: ANGLIAE, SCOTIAE, ET HIBERNIAE, &amp;<hi rend="sup">c</hi> PROTECTOR</q>
+                  <figDesc>blazon of the Commonwealth</figDesc>
+               </figure>P</head>
+            <p>
+               <seg rend="decorInit">O</seg>Liver Lord Protector of the Commonwealth of <hi>England, Scotland</hi> and <hi>Ireland,</hi> and the Dominions and Territories thereto belongin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> To all Parſons, Miniſters, Lecturers, Vicars, and Curates. And alſo to all our Juſtices of the Peace, Mayors, Sheriffes, Bailiffes, Con<g ref="char:EOLunhyphen"/>ſtables, Church-wardens, Collectors for the Poor, and Headboroughs; And to all other Officers, Miniſters and People, whatſoev<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> as well within Liberties as without, to whom theſe Preſents ſhall come greeting. Whereas the Miniſter, Church-wardens, and the r<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of the Inhabitants of the Pariſh of <hi>Edgbaston,</hi> in our County of <hi>Warwick,</hi> have made their humble Petition to us, thereby ſhewin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> That whereas the Pariſh-Church of <hi>Edgbaſton</hi> aforeſaid, was heretofore a decent Structure, fit for celebrating the publick Worſhip a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Service of God, part of the ſaid Church was in the time of the late Warres burnt, and the reſidue thereof, with the Steeple and Bells <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>moliſhed and thrown down by the Appointment of Colonel <hi>John Fox,</hi> then Governour of the Garriſon thereto adjacent. And that the Inhabitants of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaid Pariſh, being all or the greateſt part of them Tenants at will, are utterly unable to re-edifie the ſame, (the Charge thereof (being computed) amount<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unto eight hundred pounds and upwards) As by a Certificate of the Premiſſes, under the Hands and Seals of divers Juſtices of the Peace of our ſaid Cour<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Warwick</hi> hath appeared. And therefore the ſaid Petitioners have humbly beſought us, That we would be graciouſly pleaſed to grant unto them <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Letters Pattents under our Great Seal of <hi>England,</hi> to enable them to collect and receive the Charity and Benevolence of well-diſpoſed People, for and <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>wards the rebuilding of their ſaid Church. Foraſmuch therefore as the ſaid Inhabitants by reaſon of their poverty, are not able to accompliſh the <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>building of their ſaid Church, without the acceſſion of the charitable aſſiſtance of others. And for that ever ſince the demoliſhing and burning of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaid Church, they have been deſtitute of a place to reſort unto for the publick Worſhip of God. And for that alſo their ſaid humble ſuit unto us is of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> great Concernment, in regard that they the ſaid Inhabitants are deſtitute or a fit and convenient place to aſſemble themſelves in, for the Worſhip <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Service of God, and for the good of their Soules, in their Attendance on Gods holy Ordinances, and in ſanctifying the Lords dayes; for which heave<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> purpoſes, that the publick Meetings of the ſaid Inhabitants may no longer be obſtructed, but be effectually revived, promoted and furthered, becauſe <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Gracious God hath in his holy Word declared, that his love is in a more eſpecial manner towards the publick Aſſemblies of his people, then to their priv<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Devotions, for therein it is recorded, that the Lord loveth the Gates of <hi>Sion,</hi> more then all the dwellings of <hi>Jacob;</hi> We therefore have thought fit to gr<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> unto the ſaid Inhabitants their ſaid humble ſuit, being well aſſured that all good people will be zealouſly aſſected towards the advancing of this ſo pio<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Work, and readily extend their helping hands thereunto, by their liberal Contributions in that behalfe: Know ye therefore, that we of our Chriſt<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Zeal and Compaſſion, have given and granted, and by theſe our Letters Pattents we do give and grant unto the ſaid Miniſter, Church-wardens, and reſt of the Inhabitants of the ſaid Town and Pariſh of <hi>Edgbaſton</hi> aforeſid, and to their Deputy and Deputies, the Bearer or Bearers hereof, full power, cence and authority, to ask, gather, receive, and take the Almes and charitable Benevolence of all good and well-diſpoſed people, inhabiting within ſeveral Counties of <hi>Warwick, Stafford, Cheſter, Worceſter, Northampton,</hi> and <hi>Hereford,</hi> our Cities of <hi>Coventry, Lichfield, Chester, Worceſter, Peterborou<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and <hi>Hereford.</hi> And in all other Cities, Towns Corporate, priviledged places, Pariſhes, Villages and Hamlets, within our ſaid Counties, and not e<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>where, for and towards the re-building of the ſaid Church, wherefore we will and command you, and every of you, That at ſuch time and times as <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaid Inhabitants before-mentioned, their Deputy or Deputies, the Bearer or Bearers hereof ſhall come and repair to any of your Churches, Chappels, o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ther places, to ask and receive the Gratuities and charitable Benevolence of good and charitable Chriſtians, quietly to permit and ſuffer them ſo to do, with<g ref="char:EOLunhyphen"/>out any manner of your Lets or Contradictions. And you the ſaid Parſons, Miniſters, Lecturers, Vicars and Curates; for the better ſtirring up of chari<g ref="char:EOLunhyphen"/>table devotions, deliberately to publiſh and declare the tenour of theſe our Letters Pattents, or the true Copy or Brief hereof unto the people, upon <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lords day next after the ſame ſhall be tendred unto you, exhorting, perſwading, and ſtirring them up to extend their liberal Contributions towards <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaid pious Work. And you the Church-wardens of every Pariſh, and Collectors for the Poor, where ſuch Collection is to be made as aforeſaid, to<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ther with two other honeſt active men, there (nominated by the Miniſter and your ſelves,) are hereby willed and required, to collect and gather the Almes <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> charitable Benevolence, of the ſaid charitable and well-diſpoſed people, not only Houſholders, but alſo Strangers, Servants and others: And if you fi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it more expedient to an effectual advancement of this pious Work, You are hereby required to go from houſe to houſe in your reſpective Pariſhes upon <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> week dayes, to gather the Almes of the ſaid good people, ſetting down in the preſence of each particular perſon what his particular gift is. And w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhall be by you ſo gathered in the ſaid Pariſhes or Places, the ſame is to be by the Miniſter and your ſelves endorſed on the back-ſide of theſe our Let<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> Pattents, or the true Copie or Brief hereof, in words at length; Which Endorſement is to be ſubſcribed with the hands of you the ſaid Miniſters, Chur<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> wardens, and ſuch other in each Pariſh and place as have aſſiſted in ſuch Collection. And alſo to be Regiſtred in the Books of your reſpective Pariſ<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> And the ſumme and ſummes of money ſo gathered and endorſed, to deliver to the Bearer or Bearers of theſe our Letters Pattents, warranted and allo<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to receive the ſame, and to no other perſon or perſons, when as thereunto you ſhall be by them required; whoſe receiving thereof with their Acquitta<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> or Acquittances, ſhall be your ſufficient diſcharge. And laſtly, for the more Aſſurance of faithful and equal dealing, in the Receipt, Accompt, and <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſtribution of the moneys hereby to be Collected, our will and pleaſure is, That no man ſhall be employed to receive any of the moneys Collected by v<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tue of theſe our Letters Pattents, but ſuch as ſhall be appointed thereunto by Deputation, under the Hands and Seals of <hi>Richard Walter,</hi> and <hi>Robert W<gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ter</hi> Gentlemen, or one of them; whom we do by theſe our Letters Pattents, Conſtitute, Nominate, and Appoint, the Treaſurers of all ſuch moneys as ſ<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> be collected by vertue hereof as aforeſaid; And that the moneyes Collected and Raiſed by vertue of theſe Preſents, ſhall be by the ſaid Treaſurers, o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Appointment, diſpoſed of to the uſe intended, for the re-building of the ſaid Church. And they the ſaid Treaſurers, in like manner to appoint <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> whoſe hands the moneys ſo Collected ſhall be kept, until the ſame ſhall be Diſtributed for the ſaid Work, according to the true intent and meaning of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Chriſtian-will and pleaſure herein declared, any Statute, Law, Ordinance, or Proviſion heretofore made to the contrary hereof in any wiſe notwithſta<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing. In witneſſe whereof we have cauſed theſe our Letters to be made Pattents, for the ſpace of one whole yeare, next after the date hereof to end<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and no longer,</p>
+            <closer>
+               <dateline>Witneſſe our ſelfe at <hi>Weſtminſter,</hi> 
+                  <date>the eleventh day of <hi>June,</hi> in the yeare of our Lord One thouſand ſix hundred fifty and eight.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
